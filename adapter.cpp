@@ -56,7 +56,7 @@ public:
 
 int main()
 {
-  // client code was working fine with this before
+  // client code was also working fine with this before
   // Door door;
 
   // GlassDoorAdapter door;
